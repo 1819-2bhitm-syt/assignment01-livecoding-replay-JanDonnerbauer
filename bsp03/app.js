@@ -1,4 +1,4 @@
-const circle = {
+/*const circle = {
     radius: 1,
     location: {
         x: 1,
@@ -9,4 +9,17 @@ const circle = {
     }
 };
 
+circle.draw();*/
+// Factory Function
+function createCircle(radius) {
+    return {
+        radius,
+        //radius: radius
+        draw: function () {
+            console.log('draw');
+        }
+    };
+}
+
+const circle = createCircle(1);
 circle.draw();
