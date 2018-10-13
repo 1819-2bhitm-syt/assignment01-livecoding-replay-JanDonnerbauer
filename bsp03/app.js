@@ -37,7 +37,7 @@ circle.draw();*/
 
 const another = new Circle(1);*/
 
-function Circle(radius) {
+/*function Circle(radius) {
     console.log('this', this);
     this.radius = radius;
     this.draw = function () {
@@ -45,4 +45,14 @@ function Circle(radius) {
     };
 }
 
-const another = Circle(1);
+const another = Circle(1);*/
+
+//Anzeige der erstellenden Funktion
+let name = 'Susi';
+console.log('name = ', name, name.constructor);
+
+let ok = true;
+console.log('ok = ', ok, ok.constructor);
+
+let total = 100;
+console.log('total = ', total, total.constructor);
