@@ -1,3 +1,4 @@
+//Object literal syntax
 /*const circle = {
     radius: 1,
     location: {
@@ -10,8 +11,9 @@
 };
 
 circle.draw();*/
+
 // Factory Function
-function createCircle(radius) {
+/*function createCircle(radius) {
     return {
         radius,
         //radius: radius
@@ -22,4 +24,25 @@ function createCircle(radius) {
 }
 
 const circle = createCircle(1);
-circle.draw();
+circle.draw();*/
+
+// Constructor Function
+/*function Circle(radius) {
+    console.log('this', this);
+    this.radius = radius;
+    this.draw = function () {
+        console.log('draw');
+    };
+}
+
+const another = new Circle(1);*/
+
+function Circle(radius) {
+    console.log('this', this);
+    this.radius = radius;
+    this.draw = function () {
+        console.log('draw');
+    };
+}
+
+const another = Circle(1);
