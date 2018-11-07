@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1019889e-2dff-426c-8092-2699d66e672d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsp02/unterordner/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsp02/unterordner/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bsp01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bsp01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bsp02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bsp02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bsp02/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/bsp02/app.js" afterDir="false" />
+    <list default="true" id="1019889e-2dff-426c-8092-2699d66e672d" name="Default Changelist" comment="18_10_2018 value_type">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,35 +17,43 @@
     <session id="1836609965">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="4" />
+          <entry key="js" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="4" />
+          <entry key="JavaScript" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="174" />
+          <entry key="js" value="1580" />
+          <entry key="txt" value="228" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="174" />
+          <entry key="JavaScript" value="1580" />
+          <entry key="PLAIN_TEXT" value="228" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bsp02/app.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +63,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bsp02/unterordner/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bsp03/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bsp04/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bsp05/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -107,6 +137,9 @@
         <option value="$PROJECT_DIR$/bsp02/unterordner/app.js" />
         <option value="$PROJECT_DIR$/bsp02/app.js" />
         <option value="$PROJECT_DIR$/bsp02/unterordner/index.js" />
+        <option value="$PROJECT_DIR$/bsp03/app.js" />
+        <option value="$PROJECT_DIR$/bsp04/app.js" />
+        <option value="$PROJECT_DIR$/bsp05/app.js" />
       </list>
     </option>
   </component>
@@ -127,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,26 +168,15 @@
               <item name="assignment01-livecoding-replay-JanDonnerbauer" type="b2602c69:ProjectViewProjectNode" />
               <item name="assignment01-livecoding-replay-JanDonnerbauer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="assignment01-livecoding-replay-JanDonnerbauer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment01-livecoding-replay-JanDonnerbauer" type="462c0819:PsiDirectoryNode" />
-              <item name="bsp02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment01-livecoding-replay-JanDonnerbauer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment01-livecoding-replay-JanDonnerbauer" type="462c0819:PsiDirectoryNode" />
-              <item name="bsp02" type="462c0819:PsiDirectoryNode" />
-              <item name="unterordner" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -181,22 +204,90 @@
       <option name="presentableId" value="Default" />
       <updated>1538834385950</updated>
       <workItem from="1538834388530" duration="814000" />
+      <workItem from="1539092893048" duration="748000" />
+      <workItem from="1539189743300" duration="946000" />
+      <workItem from="1539359514588" duration="1549000" />
+      <workItem from="1539432329534" duration="1385000" />
+      <workItem from="1539702974512" duration="496000" />
+      <workItem from="1540037390934" duration="35000" />
+      <workItem from="1540038443680" duration="1297000" />
+      <workItem from="1540039763733" duration="365000" />
     </task>
+    <task id="LOCAL-00001" summary="10_10_2018_syt_huemer">
+      <created>1539189930778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539189930778</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11_10_2018_object_literal_syntax">
+      <created>1539359903521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539359903521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="11_10_2018_factories">
+      <created>1539360335648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539360335648</updated>
+    </task>
+    <task id="LOCAL-00004" summary="11_10_2018_constructor_function">
+      <created>1539432843395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539432843395</updated>
+    </task>
+    <task id="LOCAL-00005" summary="11_10_2018_anzeige_der_erstellenden_funktion">
+      <created>1539446547399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539446547399</updated>
+    </task>
+    <task id="LOCAL-00006" summary="15_10_2018_primitve_Datentypen und Objekte">
+      <created>1539703412562</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539703412563</updated>
+    </task>
+    <task id="LOCAL-00007" summary="18_10_2018 value_type">
+      <created>1540038747082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540038747082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="18_10_2018 reference_type">
+      <created>1540038894141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540038894141</updated>
+    </task>
+    <task id="LOCAL-00009" summary="18_10_2018 value_reference_type_weitere_beispiele">
+      <created>1540039139795</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540039139795</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="814000" />
+    <option name="totallyTimeSpent" value="7635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32968238" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -204,6 +295,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -215,20 +311,44 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10_10_2018_syt_huemer" />
+    <MESSAGE value="11_10_2018_object_literal_syntax" />
+    <MESSAGE value="11_10_2018_factories" />
+    <MESSAGE value="11_10_2018_constructor_function" />
+    <MESSAGE value="11_10_2018_anzeige_der_erstellenden_funktion" />
+    <MESSAGE value="15_10_2018_primitve_Datentypen und Objekte" />
+    <MESSAGE value="18_10_2018 value_type" />
+    <MESSAGE value="18_10_2018 reference_type" />
+    <MESSAGE value="18_10_2018 value_reference_type_weitere_beispiele" />
+    <option name="LAST_COMMIT_MESSAGE" value="18_10_2018 value_reference_type_weitere_beispiele" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bsp02/hallo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bsp02/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsp02/unterordner/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsp03/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsp04/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -239,10 +359,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bsp02/unterordner/index.js">
+    <entry file="file://$PROJECT_DIR$/bsp02/hallo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsp05/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
